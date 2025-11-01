@@ -161,4 +161,4 @@ MIT License — free to use for educational and authorized security testing only
 ---
 
 **Author:** Preetinder Singh
-**Version:** 1.1 (updated README with output instructions)
+**Version:** 1.1 
